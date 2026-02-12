@@ -1,0 +1,676 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,State,Metro,CountyName,Date,Value
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-01-31,1137.2634526421657
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-02-28,1147.116301364129
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-03-31,1155.3110815851376
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-04-30,1161.0887487289328
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-05-31,1172.5368762860683
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-06-30,1182.31612500957
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-07-31,1189.3849525377914
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-08-31,1193.4200205568807
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-09-30,1192.2615024231118
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-10-31,1187.8915283336635
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-11-30,1183.097871301623
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2015-12-31,1188.032219966392
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-01-31,1193.566551503876
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-02-29,1197.7260817215288
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-03-31,1198.1391831850901
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-04-30,1208.499682069526
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-05-31,1218.0652707202355
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-06-30,1226.8294519248532
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-07-31,1228.5385396067613
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-08-31,1226.7772049376792
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-09-30,1222.8178631020412
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-10-31,1214.622113737364
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-11-30,1211.064082696357
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2016-12-31,1213.2436307815783
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-01-31,1219.037570573574
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-02-28,1230.1888473857084
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-03-31,1243.5087007616455
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-04-30,1253.9641195485544
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-05-31,1258.66575933521
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-06-30,1263.2891148012877
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-07-31,1262.1325214196436
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-08-31,1259.480452763017
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-09-30,1251.699719680631
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-10-31,1247.451946439908
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-11-30,1247.0577409401074
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2017-12-31,1245.8514901675308
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-01-31,1244.8662859286258
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-02-28,1252.0421998382453
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-03-31,1259.4839692583573
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-04-30,1271.796194074134
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-05-31,1278.2562644724496
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-06-30,1288.712125796157
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-07-31,1298.0039091434273
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-08-31,1303.3745940228441
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-09-30,1302.5651589594402
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-10-31,1302.937224572532
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-11-30,1308.045758623137
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2018-12-31,1309.0386660405763
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-01-31,1311.5048353049683
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-02-28,1318.8996842977156
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-03-31,1334.0521788897845
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-04-30,1344.4835825624627
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-05-31,1348.6367847084332
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-06-30,1353.981244034983
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-07-31,1362.4226294080206
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-08-31,1371.371504561883
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-09-30,1373.0733515174388
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-10-31,1373.1963703894107
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-11-30,1369.0458159256127
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2019-12-31,1369.420394190452
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-01-31,1371.8609394229347
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-02-29,1376.5728221026307
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-03-31,1385.157373657386
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-04-30,1380.6541427374004
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-05-31,1371.39840217529
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-06-30,1362.0345417613385
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-07-31,1362.82928381082
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-08-31,1363.4852224331771
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-09-30,1353.728887144095
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-10-31,1345.5576193033135
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-11-30,1341.0885138129513
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2020-12-31,1343.928704998188
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-01-31,1352.6352327764705
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-02-28,1369.0153510671598
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-03-31,1390.46316023527
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-04-30,1419.9254445779907
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-05-31,1457.494430892984
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-06-30,1506.0269966421051
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-07-31,1555.9575742171671
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-08-31,1602.2528881839912
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-09-30,1632.6912548695354
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-10-31,1643.3736180082703
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-11-30,1641.3886809989726
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2021-12-31,1643.4372963109015
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-01-31,1646.6767483787487
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-02-28,1663.7772629502815
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-03-31,1678.9106326922113
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-04-30,1705.2323006697327
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-05-31,1727.9030399519384
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-06-30,1755.8215390426894
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-07-31,1779.3521005430312
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-08-31,1781.8061145836696
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-09-30,1768.6811576847772
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-10-31,1743.6247927072898
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-11-30,1721.2287525116644
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2022-12-31,1705.996033449713
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-01-31,1700.8812324626515
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-02-28,1704.5564718344144
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-03-31,1717.693278220736
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-04-30,1720.6518894493568
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-05-31,1725.020248386199
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-06-30,1722.002235512385
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-07-31,1722.5781153730984
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-08-31,1710.9185005495574
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-09-30,1690.6382924234283
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-10-31,1673.0915574970056
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-11-30,1658.166187271908
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2023-12-31,1651.8376028302785
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-01-31,1642.252891009997
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-02-29,1640.0654390077268
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-03-31,1639.045555416707
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-04-30,1643.575605894892
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-05-31,1650.3966745883301
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-06-30,1651.908619273484
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-07-31,1648.619611219748
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-08-31,1636.0022168148507
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-09-30,1622.767919854025
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-10-31,1607.524175962713
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-11-30,1594.220976610594
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2024-12-31,1585.940139789797
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-01-31,1583.350522655588
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-02-28,1587.8997446784078
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-03-31,1594.118709219367
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-04-30,1600.6761081223196
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-05-31,1606.5264981568848
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-06-30,1604.0870996967935
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-07-31,1592.7613631751694
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-08-31,1578.317037698126
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-09-30,1565.345268847746
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-10-31,1556.038629040584
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-11-30,1543.793423477484
+10221,10,Austin,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Travis County,2025-12-31,1537.6608947695076
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-01-31,959.1841904759909
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-02-28,961.5928086810883
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-03-31,976.0004354710807
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-04-30,985.6911834151127
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-05-31,988.3899581622757
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-06-30,990.7758595304786
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-07-31,995.1558154043937
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-08-31,1008.3781072833926
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-09-30,1017.173458690858
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-10-31,1016.0086760455979
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-11-30,999.9701080794814
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2015-12-31,996.2261770715246
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-01-31,995.8141049541225
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-02-29,1015.5266451128208
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-03-31,1022.8828221247734
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-04-30,1035.0119949296704
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-05-31,1037.611129605328
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-06-30,1046.426092305478
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-07-31,1051.0911302701345
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-08-31,1056.739132436979
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-09-30,1050.8294288440864
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-10-31,1049.9296836419846
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-11-30,1045.3746794653252
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2016-12-31,1052.1310849085728
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-01-31,1051.4207110555858
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-02-28,1059.5131712228333
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-03-31,1072.6802650213883
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-04-30,1086.6340889398225
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-05-31,1100.464983495776
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-06-30,1102.9911831736508
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-07-31,1103.3238972756092
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-08-31,1105.428635103279
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-09-30,1110.251456061095
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-10-31,1108.39288708619
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-11-30,1097.949477434593
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2017-12-31,1087.7051881027464
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-01-31,1096.4033662998497
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-02-28,1111.773206359934
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-03-31,1124.0292426809579
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-04-30,1127.830267901875
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-05-31,1133.0967850771347
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-06-30,1137.0453009911512
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-07-31,1144.09934853937
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-08-31,1139.047338538779
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-09-30,1142.4496119234777
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-10-31,1137.9917707041266
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-11-30,1132.0749273198132
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2018-12-31,1117.2930987665743
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-01-31,1116.2810280493768
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-02-28,1133.0537923147726
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-03-31,1149.8773320120515
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-04-30,1162.6688593957904
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-05-31,1169.1616170922223
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-06-30,1177.1588043151169
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-07-31,1178.7399832485519
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-08-31,1180.734133913257
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-09-30,1180.4579775547772
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-10-31,1180.401726973621
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-11-30,1185.9524772199427
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2019-12-31,1176.0746740084173
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-01-31,1180.8607535069552
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-02-29,1174.40103616775
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-03-31,1181.2538868251786
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-04-30,1178.903012792529
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-05-31,1184.8533870957258
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-06-30,1200.772543839847
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-07-31,1213.6568620382013
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-08-31,1210.5783801973855
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-09-30,1210.3363969356442
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-10-31,1212.4820498840038
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-11-30,1220.541565281228
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2020-12-31,1224.331767384465
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-01-31,1226.3182362604502
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-02-28,1230.2892093002747
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-03-31,1246.9648692923386
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-04-30,1259.7989672546405
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-05-31,1282.4598673272483
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-06-30,1288.246051461148
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-07-31,1309.0782168182566
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-08-31,1314.791271707681
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-09-30,1338.6348974324997
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-10-31,1341.136543334099
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-11-30,1358.5003636023525
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2021-12-31,1357.0958417790127
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-01-31,1368.0743090313686
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-02-28,1375.5458696012822
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-03-31,1391.30801343027
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-04-30,1414.1831692549115
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-05-31,1439.4232448627956
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-06-30,1463.3752652485073
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-07-31,1479.3195705048215
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-08-31,1494.9835193530637
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-09-30,1493.3035589332108
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-10-31,1489.479736179236
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-11-30,1470.7006163720034
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2022-12-31,1467.7779557059387
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-01-31,1465.5222397459952
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-02-28,1470.863257356898
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-03-31,1473.153963695706
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-04-30,1480.4740027689027
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-05-31,1490.7121733386982
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-06-30,1514.1493362610647
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-07-31,1521.887736988636
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-08-31,1527.9700251060954
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-09-30,1519.4243761767814
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-10-31,1512.0684331634889
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-11-30,1510.251451569051
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2023-12-31,1504.076278259008
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-01-31,1510.6925494398615
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-02-29,1506.6347284899255
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-03-31,1514.699663413725
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-04-30,1522.4173413227927
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-05-31,1535.5581811422442
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-06-30,1540.6403568649466
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-07-31,1543.8873252442615
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-08-31,1540.0553348413507
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-09-30,1524.8102347924164
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-10-31,1514.3946074866788
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-11-30,1495.7510382253492
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2024-12-31,1491.2836882205238
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-01-31,1484.0845746098964
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-02-28,1505.8068667105642
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-03-31,1526.4981409946827
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-04-30,1548.995616014995
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-05-31,1552.810342870167
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-06-30,1551.5735973154697
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-07-31,1532.0523859191853
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-08-31,1514.8457511918602
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-09-30,1496.9407051545543
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-10-31,1480.993738199219
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-11-30,1466.360182349676
+4351,252,Denton,city,TX,TX,"Dallas-Fort Worth-Arlington, TX",Denton County,2025-12-31,1456.699818627974
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-01-31,1228.648340393333
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-02-28,1238.1019825600652
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-03-31,1245.717524659126
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-04-30,1264.812004052106
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-05-31,1269.6888822032136
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-06-30,1277.9319731733083
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-07-31,1278.7749388387704
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-08-31,1295.6198370071147
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-09-30,1260.5258519575648
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-10-31,1269.4420858710978
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-11-30,1273.0064176326841
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2015-12-31,1327.3065537942246
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-01-31,1336.6003735779698
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-02-29,1337.0962721338967
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-03-31,1330.8124483139206
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-04-30,1327.1905016427581
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-05-31,1328.5114308562872
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-06-30,1331.8626896182589
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-07-31,1331.984118359808
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-08-31,1335.1414285961969
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-09-30,1298.3587152851376
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-10-31,1291.015096613709
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-11-30,1289.4842449874968
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2016-12-31,1336.3957615981155
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-01-31,1364.380280200059
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-02-28,1381.8198511371158
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-03-31,1385.4167835623236
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-04-30,1383.3717707280694
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-05-31,1382.9750037961203
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-06-30,1379.422054646741
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-07-31,1362.415175471333
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-08-31,1329.0449957034443
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-09-30,1325.6572138742304
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-10-31,1335.7925426709794
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-11-30,1360.3945722816914
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2017-12-31,1364.6377955924936
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-01-31,1372.2602288529988
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-02-28,1387.0595893831767
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-03-31,1395.5153970119256
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-04-30,1395.7887665518092
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-05-31,1385.5778361893365
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-06-30,1360.168106912697
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-07-31,1338.0879438133381
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-08-31,1309.7309540651222
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-09-30,1318.8851046096452
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-10-31,1343.435206843612
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-11-30,1354.464454331917
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2018-12-31,1375.8674189527103
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-01-31,1381.5527998198977
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-02-28,1415.3617205388703
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-03-31,1418.675876450253
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-04-30,1414.5988474673024
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-05-31,1403.8039868691937
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-06-30,1397.0392140402612
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-07-31,1385.346999124881
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-08-31,1383.4797143418182
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-09-30,1398.9545170415654
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-10-31,1409.8318633387769
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-11-30,1429.810431872161
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2019-12-31,1427.3514030311692
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-01-31,1444.7989430768832
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-02-29,1450.9296832212265
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-03-31,1456.604749499224
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-04-30,1449.3903288388653
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-05-31,1442.1918576233043
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-06-30,1430.3735777008242
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-07-31,1419.3735690470905
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-08-31,1421.6783529584927
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-09-30,1441.5773010589185
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-10-31,1471.4465256963585
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-11-30,1491.3273276820198
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2020-12-31,1500.0116494377405
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-01-31,1505.8274505891866
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-02-28,1515.755206959096
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-03-31,1507.455506070375
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-04-30,1507.507248155093
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-05-31,1498.7619161206524
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-06-30,1514.2716719984207
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-07-31,1535.287595684766
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-08-31,1561.084815892671
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-09-30,1582.4111848475045
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-10-31,1606.5818259861185
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-11-30,1615.713512717879
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2021-12-31,1620.2015834015194
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-01-31,1609.9021513894413
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-02-28,1615.0308139903993
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-03-31,1634.7660684810737
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-04-30,1653.279987209942
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-05-31,1661.564768809744
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-06-30,1663.2361672201553
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-07-31,1673.0784442095655
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-08-31,1673.5726102415426
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-09-30,1699.4152038335199
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-10-31,1712.1190804603866
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-11-30,1741.4317573508106
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2022-12-31,1741.831901269355
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-01-31,1748.2396929187448
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-02-28,1752.4846393842072
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-03-31,1759.1553074470314
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-04-30,1769.0018938194653
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-05-31,1766.6102393603337
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-06-30,1762.202963831857
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-07-31,1761.4356462694666
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-08-31,1771.6974168332608
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-09-30,1797.7614667059386
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-10-31,1817.4470554705865
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-11-30,1836.2807587759055
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2023-12-31,1835.2383012162081
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-01-31,1835.999183260709
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-02-29,1838.4171151351086
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-03-31,1840.3473113911348
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-04-30,1836.882341334402
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-05-31,1841.5389943196744
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-06-30,1836.395008139302
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-07-31,1856.6267396218639
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-08-31,1866.5288721023055
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-09-30,1918.118672401045
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-10-31,1940.1948885351767
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-11-30,1960.0136561687814
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2024-12-31,1935.6955458948262
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-01-31,1932.2222779629035
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-02-28,1925.9728554649223
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-03-31,1916.3229562998326
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-04-30,1912.6093434338352
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-05-31,1906.7366144781745
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-06-30,1913.181398835384
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-07-31,1908.4010067600218
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-08-31,1953.1307908141653
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-09-30,2035.1589651760435
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-10-31,2084.6436930631216
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-11-30,2075.5247276244613
+37965,311,College Station,city,TX,TX,"College Station-Bryan, TX",Brazos County,2025-12-31,2029.2803262529003
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-01-31,1728.4510621638908
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-02-28,1744.7736046771263
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-03-31,1764.2667211244748
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-04-30,1776.688726684303
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-05-31,1788.371418717802
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-06-30,1812.7978267207789
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-07-31,1806.4031078097576
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-08-31,1809.1355167434585
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-09-30,1792.3095401372334
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-10-31,1828.4190907130742
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-11-30,1830.8841909004889
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2015-12-31,1864.2745045314648
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-01-31,1864.4488568172399
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-02-29,1894.319740810762
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-03-31,1861.4752847401119
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-04-30,1851.0193660868176
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-05-31,1861.4765424992672
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-06-30,1891.4915520333348
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-07-31,1919.4520494700728
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-08-31,1921.950522370472
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-09-30,1909.1653326776081
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-10-31,1920.4064603703796
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-11-30,1898.0654628172567
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2016-12-31,1921.5056469257493
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-01-31,1934.776310812316
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-02-28,1962.5762590347422
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-03-31,1984.4642971952549
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-04-30,1989.0924464950408
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-05-31,2012.216272078661
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-06-30,2019.5767475578198
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-07-31,2041.4891829819273
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-08-31,2035.1853953068285
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-09-30,2039.2599854926564
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-10-31,2034.5793975680338
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-11-30,2028.4257583260935
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2017-12-31,2042.8739428481063
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-01-31,2042.9768305895213
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-02-28,2052.039008046634
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-03-31,2056.4117779097546
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-04-30,2076.3376868971345
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-05-31,2105.5724774784903
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-06-30,2105.0872272493643
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-07-31,2097.535524247306
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-08-31,2107.7117890341087
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-09-30,2105.7875471433003
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-10-31,2105.214903064021
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-11-30,2106.5382280077265
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2018-12-31,2122.1814995081713
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-01-31,2132.8248849563897
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-02-28,2134.7753543877816
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-03-31,2150.3515969456844
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-04-30,2160.471581602687
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-05-31,2170.1107130849446
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-06-30,2169.6912036244803
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-07-31,2193.846721015606
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-08-31,2206.2546724861986
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-09-30,2225.952084927199
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-10-31,2214.9970009396634
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-11-30,2196.158276080234
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2019-12-31,2171.3776216319015
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-01-31,2169.387350315916
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-02-29,2198.1827121031088
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-03-31,2227.333609748492
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-04-30,2217.9607544832693
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-05-31,2209.826419189529
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-06-30,2196.801136056441
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-07-31,2241.8259679359408
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-08-31,2250.189124592966
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-09-30,2288.942495528611
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-10-31,2285.661229715202
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-11-30,2286.904939207733
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2020-12-31,2269.087162179189
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-01-31,2272.392921963947
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-02-28,2304.6222230854073
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-03-31,2348.765502022386
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-04-30,2389.988811060369
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-05-31,2426.7936613109846
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-06-30,2470.8154524891884
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-07-31,2510.9518963941223
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-08-31,2566.4561124207885
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-09-30,2625.3929693513624
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-10-31,2662.485898856622
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-11-30,2684.4979824519937
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2021-12-31,2698.0854178435943
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-01-31,2726.177655133525
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-02-28,2748.1296823089524
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-03-31,2763.2643568872004
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-04-30,2812.7949911966016
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-05-31,2855.6224368350145
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-06-30,2897.8246854660997
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-07-31,2921.8754080461
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-08-31,2935.2036118627084
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-09-30,2950.8725179129838
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-10-31,2925.1932364813347
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-11-30,2904.8966506305846
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2022-12-31,2873.442664837089
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-01-31,2858.4599585463634
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-02-28,2895.5319866806617
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-03-31,2927.47126150997
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-04-30,2959.3812617923936
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-05-31,2963.140379722996
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-06-30,2982.745808383479
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-07-31,3043.6707607748567
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-08-31,3078.221025210228
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-09-30,3079.897950400812
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-10-31,3033.465907670249
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-11-30,3018.628435582656
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2023-12-31,3001.3821443530846
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-01-31,3008.2447405787234
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-02-29,3007.60646208933
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-03-31,3049.7108928183593
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-04-30,3064.908120880332
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-05-31,3078.985069723599
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-06-30,3064.4696809605352
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-07-31,3096.797495740007
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-08-31,3120.40891628012
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-09-30,3150.9919367531147
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-10-31,3132.66260493453
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-11-30,3089.5359489166744
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2024-12-31,3076.9758075528316
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-01-31,3080.1675137985635
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-02-28,3104.7695848451117
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-03-31,3098.1127342331156
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-04-30,3104.6749644314136
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-05-31,3107.8202615435093
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-06-30,3136.8177379393946
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-07-31,3132.8451271439326
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-08-31,3144.065020178731
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-09-30,3148.891533946192
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-10-31,3162.9697235448316
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-11-30,3183.776280116953
+40737,485,San Marcos,city,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",San Diego County,2025-12-31,3169.824570491237
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-03-31,993.6772473221947
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-04-30,1008.7464106422699
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-05-31,1022.2471573075737
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-06-30,1023.3553988120573
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-07-31,1029.0814207605208
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-08-31,1040.9024784187222
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-10-31,1045.863550161935
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-11-30,1020.3797682871394
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2016-12-31,1008.8207174984041
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-01-31,1007.9547271160138
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-02-28,1003.896792642773
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-03-31,1016.785469867335
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-04-30,1019.7202362735152
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-05-31,1043.7763003928485
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-06-30,1055.4450609439414
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-07-31,1065.2105531159439
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-08-31,1051.698855047882
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-09-30,1040.6758761468195
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-10-31,1020.6328802340562
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-11-30,1040.9666461167062
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2017-12-31,1046.0400497510718
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-01-31,1048.2679713457255
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-02-28,1031.7167278689178
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-03-31,1041.404528583345
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-04-30,1056.6380952433813
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-05-31,1078.447862238996
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-06-30,1089.5248150223129
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-07-31,1102.648659237607
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-08-31,1101.9983202574974
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-09-30,1096.0130963634365
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-10-31,1063.8029815925663
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-11-30,1050.4959410121646
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2018-12-31,1058.7955221391933
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-01-31,1084.6889679417636
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-02-28,1102.3791545282684
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-03-31,1093.0581549395195
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-04-30,1105.5206519451935
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-05-31,1126.183036771199
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-06-30,1147.6825105107337
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-07-31,1163.9512675226981
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-08-31,1146.6977021595908
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-09-30,1131.9716227340662
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-10-31,1120.0363002521906
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-11-30,1121.755906098094
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2019-12-31,1120.251528685335
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-01-31,1115.6147871973283
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-02-29,1123.8708096290525
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-03-31,1136.4755112023363
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-04-30,1137.8509184141992
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-05-31,1135.0736424553327
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-06-30,1144.371700641404
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-07-31,1163.2300151154525
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-08-31,1174.0263456160583
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-09-30,1177.3776029456546
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-10-31,1165.1049742338832
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-11-30,1161.2365412577415
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2020-12-31,1156.511806062477
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-01-31,1160.6047642953624
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-02-28,1163.9991503519373
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-03-31,1165.4844749274448
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-04-30,1186.3875020150097
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-05-31,1209.6918095218573
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-06-30,1245.498164063608
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-07-31,1271.0939228733207
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-08-31,1289.3537056118928
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-09-30,1303.1898814627266
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-10-31,1316.8816684661879
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-11-30,1327.2182278025891
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2021-12-31,1335.9906171598702
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-01-31,1345.1816233695004
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-02-28,1369.9770016278019
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-03-31,1388.371646499407
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-04-30,1405.8261375182876
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-05-31,1413.2211209280624
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-06-30,1413.3744869554355
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-07-31,1420.184109109546
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-08-31,1427.4782649448437
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-09-30,1451.9079444902268
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-10-31,1449.0427965103092
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-11-30,1442.409935948482
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2022-12-31,1437.8326752995556
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-01-31,1444.090958699047
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-02-28,1454.3288481549494
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-03-31,1459.5992925891728
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-04-30,1458.9388459307534
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-05-31,1457.2728704966478
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-06-30,1450.9922619658141
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-07-31,1456.8013408492568
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-08-31,1450.2062327780823
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-09-30,1448.3951283098727
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-10-31,1437.3888817221882
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-11-30,1447.4245426197338
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2023-12-31,1438.2842348724878
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-01-31,1453.879465957774
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-02-29,1443.6841557924986
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-03-31,1464.7053254265293
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-04-30,1459.4547538513968
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-05-31,1466.884836632697
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-06-30,1466.5373296151847
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-07-31,1466.9210750981426
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-08-31,1458.1113573780062
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-09-30,1438.363287783677
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-10-31,1416.947653483932
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-11-30,1387.8900286744768
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2024-12-31,1381.2906278044923
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-01-31,1355.3488064802098
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-02-28,1358.7132639888657
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-03-31,1359.8181998763323
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-04-30,1379.9265891672792
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-05-31,1407.0108515267236
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-06-30,1411.731137226042
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-07-31,1422.5570842338193
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-08-31,1394.4307453291276
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-09-30,1384.8165049120853
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-10-31,1367.075286228184
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-11-30,1364.76387200594
+40738,673,San Marcos,city,TX,TX,"Austin-Round Rock-Georgetown, TX",Hays County,2025-12-31,1355.269749141342
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2023-06-30,567.2399675849657
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2023-07-31,584.9780364027687
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2023-08-31,587.4261555024295
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2023-09-30,582.8273772146678
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2023-10-31,595.248238435319
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2023-11-30,599.9444828371551
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2023-12-31,610.696455600172
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-01-31,590.5500571152211
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-02-29,582.4006962297652
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-03-31,588.7756910859143
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-04-30,611.7660184098853
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-05-31,637.923093123147
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-06-30,645.224169002118
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-07-31,651.2544120721284
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-08-31,648.2827232181972
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-09-30,652.6409455583628
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-10-31,638.4996131007251
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2024-11-30,638.7832969711225
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-01-31,657.4547459458178
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-02-28,660.1373740150717
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-03-31,664.8390849579075
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-04-30,674.664547864388
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-05-31,688.2137573472313
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-06-30,695.4107616714214
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-07-31,708.5080643513083
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-08-31,700.9325073195588
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-09-30,715.522292933755
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-10-31,729.365592223869
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-11-30,765.1638273567108
+23555,2142,Austin,city,MN,MN,"Austin, MN",Mower County,2025-12-31,760.8333333333334
